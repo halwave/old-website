@@ -1,2 +1,2 @@
-whiston.github.io
+hwhiston.github.io
 Personal website
