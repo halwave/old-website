@@ -1,2 +1,2 @@
-Old version of my hwhiston.github.io website. Now deprecated.
+Old version of my github.io website. Now deprecated.
 Personal website
